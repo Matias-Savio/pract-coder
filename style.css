@@ -1,0 +1,17 @@
+@media (max-width: 576px) {
+  .custom-style {
+    background-color: red;
+  }
+}
+
+@media (max-width: 577px) and (max-width: 768px) {
+  .custom-style {
+    background-color: blue;
+  }
+}
+
+@media (max-width: 769px) {
+  .custom-style {
+    background-color: green;
+  }
+}
